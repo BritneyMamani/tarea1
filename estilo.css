@@ -1,0 +1,173 @@
+
+#contenedor
+{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(243, 210, 197);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#oreja1
+{
+    background-color: rgb(133, 69, 44);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 10%;
+    right: 812px;
+
+}
+#oreja2
+{
+    background-color: rgb(133, 69, 44);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 10%;
+    right: 605px;
+}
+
+#ore2
+{
+    background-color: rgb(230, 171, 148);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 10%;
+    right: 200px;
+    z-index: 3;
+}
+#ore1
+{
+    background-color: rgb(230, 171, 148);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 10%;
+    left: 215px;
+    z-index: 3;
+}
+#cabeza
+{
+    background-color: rgb(133, 69, 44);
+    border-radius: 50%;
+    width: 230px;
+    height: 200px;
+    position: relative;
+    left: 500px;
+
+
+}
+#ojo1
+{
+    right: 27%;
+    
+    height: 16px;
+    width: 10px;
+    background-color: black;
+    position: absolute;
+    border-radius: 5px;
+    top: 45%;
+}
+
+#ojo2
+{
+    left: 27%;
+    
+    height: 16px;
+    width: 10px;
+    background-color: black;
+    position: absolute;
+    border-radius: 5px;
+    top: 45%;
+}
+#nariz
+{
+    background-color: black;
+    border-radius: 50%;
+    width: 15%;
+    height: 15%;
+    position: relative;
+    left: 42%;
+    top: 50%;
+}
+#boca
+{
+    background-color: rgb(238, 127, 192);
+    border-radius: 50%;
+    width: 35%;
+    height: 15%;
+    position: relative;
+    left: 34%;
+    top: 54%;
+}
+#panza
+{
+    background-color: rgb(133, 69, 44);
+    border-radius: 50%;
+    width: 380px;
+    height: 360px;
+    position: relative;
+    left: 430px;
+}
+#barriga
+{
+    background-color: rgb(230, 172, 150);
+    border-radius: 50%;
+    width: 230px;
+    height: 270px;
+    position: relative;
+    left: 70px;
+    top: 40px;
+}
+#mano1
+{
+    background-color: rgb(133, 69, 44);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 50%;
+    right: 890px;
+}
+#mano2
+{
+    background-color: rgb(133, 69, 44);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 50%;
+    left: 785px;
+}
+#pie1
+{
+    background-color: rgb(133, 69, 44);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 85%;
+    right: 855px;
+}
+#pie2
+{
+    background-color: rgb(133, 69, 44);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 85%;
+    left: 750px;
+}
+#p
+{
+   font-size: medium;
+
+}
